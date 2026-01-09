@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying Engineering<br>i am very much interested in coding<br>i am learning python fundamentals <br>i want to explore more in tech fields<br>i am looking for help with best guide and mentor for getting to know more in AI industry<br><br>
+I am currently studying Engineering<br>i am very much interested in coding<br>i am learning python fundamentals <br>i want to explore more in AI technology<br>i am looking for help with best guide and mentor for getting to know more in AI industry<br><br>
 
 
 ## 🌐 Socials:
